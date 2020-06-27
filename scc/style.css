@@ -1,0 +1,36 @@
+  *{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+  }
+  
+ .body-content{
+	 width: 100%;
+	 padding: 20 px;
+	 text-align: justify;
+	 box-sizing: border-box;
+	 font-size: 18px;
+	 line-height 40px;
+ }
+ 
+ .footer{
+	 width: 100%
+	 background: #00121b;
+	 display: block;
+	 
+.inner-footer{
+	width: 95%;
+	margin: auto;
+	padding: 30px 10px;
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box
+	justify-content: center;
+	
+}
+.footer-items{
+	width: 25%
+	padding: 10px; 
+	box-sizing: border-box;
+}
+h1 {}
